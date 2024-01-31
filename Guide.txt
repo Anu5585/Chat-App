@@ -1,0 +1,7 @@
+1 = logo
+2 = voice 
+3 = websockit.io (Socket.IO is a library that enables low-latency, bidirectional and event-based communication between a client and a server.
+)  two way connection h 
+4 = npm init in  a terminal 
+5 =  npm i socket.io
+6 = 
